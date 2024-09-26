@@ -10,7 +10,7 @@
     <!-- EXERCISE 4 -->
     
     <!-- GET METHOD -->
-    <form action="naragmarielleandrea_ex4.php" method="get">
+    <form action="reginiogenicadrazele_ex4.php" method="get">
         <label for="fname">Enter your Firstname:</label>
         <input type="text" id="fname" name="fname"><br><br>
 
